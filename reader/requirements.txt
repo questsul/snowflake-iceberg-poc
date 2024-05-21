@@ -1,0 +1,3 @@
+azure-storage-blob 
+azure-identity
+pyiceberg[pandas,adlfs,s3fs]==0.6.0
